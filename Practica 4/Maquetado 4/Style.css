@@ -1,0 +1,18 @@
+.row{
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+}
+.column{
+    width: 250px;
+    height: 350px;
+    margin: 25px;
+    float: left;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.text{
+    text-align: center;
+}
